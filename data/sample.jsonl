@@ -1,0 +1,9 @@
+{"id":"s1","text":"Fast and reliable sync","label":"positive"}
+{"id":"s2","text":"A great search experience","label":"positive"}
+{"id":"s3","text":"The file arrived","label":"neutral"}
+{"id":"s4","text":"Terrible startup time","label":"negative"}
+{"id":"s5","text":"Helpful support","label":"positive"}
+{"id":"s2","text":"Duplicate event","label":"neutral"}
+{"id":"s6","text":"","label":"negative"}
+{"id":"s7","text":"Unknown taxonomy","label":"mixed"}
+this is not JSON
